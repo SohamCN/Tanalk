@@ -1,0 +1,4 @@
+{
+  "mongoURL": "mongodb+srv://testadmin:TestAdmin1234@cluster0.1dsyb.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "dbvwryfwiefbwincenfcddkcjxfkhbvskfhbvs"
+}
